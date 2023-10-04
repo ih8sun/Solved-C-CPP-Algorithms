@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "C:\\Users\\el pepe\\Downloads\\proyecto grande"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"xstring": "cpp",
+			"stdio.h": "c",
+			"stdlib.h": "c"
+		}
+	}
+}

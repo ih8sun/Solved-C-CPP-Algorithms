@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/el pepe/Documents/prueba/maquina/main.cpp
+iostream
+-
+windows.h
+-
+stdio.h
+-
+cstdlib
+-
+time.h
+-
+

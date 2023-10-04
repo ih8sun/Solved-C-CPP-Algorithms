@@ -1,0 +1,3 @@
+C:/Users/el pepe/Documents/NuevoCine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/el pepe/Documents/NuevoCine/cmake-build-debug/CMakeFiles/NuevoCine.dir
+C:/Users/el pepe/Documents/NuevoCine/cmake-build-debug/CMakeFiles/edit_cache.dir

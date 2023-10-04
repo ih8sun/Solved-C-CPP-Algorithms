@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/el pepe/Documents/prueba/nuevoArg/definiciones.h
+
+C:/Users/el pepe/Documents/prueba/nuevoArg/main.c
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+menu.h
+C:/Users/el pepe/Documents/prueba/nuevoArg/menu.h
+definiciones.h
+C:/Users/el pepe/Documents/prueba/nuevoArg/definiciones.h
+
+C:/Users/el pepe/Documents/prueba/nuevoArg/menu.h
+

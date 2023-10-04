@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "xiosbase": "c",
+        "xmemory": "c",
+        "iterator": "c",
+        "memory": "c",
+        "streambuf": "c",
+        "type_traits": "c",
+        "xlocale": "c",
+        "xlocnum": "c",
+        "xtr1common": "c",
+        "concepts": "c",
+        "exception": "c",
+        "ios": "c",
+        "istream": "c",
+        "ostream": "c",
+        "tuple": "c",
+        "utility": "c",
+        "stdio.h": "c",
+        "system_error": "c"
+    }
+}

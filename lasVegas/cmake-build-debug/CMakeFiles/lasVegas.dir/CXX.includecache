@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/el pepe/Documents/prueba/lasVegas/main.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+nQueens.h
+C:/Users/el pepe/Documents/prueba/lasVegas/nQueens.h
+
+C:/Users/el pepe/Documents/prueba/lasVegas/nQueens.cpp
+iostream
+-
+list
+-
+math.h
+-
+nQueens.h
+C:/Users/el pepe/Documents/prueba/lasVegas/nQueens.h
+stdlib.h
+-
+
+C:/Users/el pepe/Documents/prueba/lasVegas/nQueens.h
+vector
+-
+

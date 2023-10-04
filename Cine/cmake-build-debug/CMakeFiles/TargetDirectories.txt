@@ -1,0 +1,3 @@
+C:/Users/el pepe/Documents/plantillasEnC/Cine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/el pepe/Documents/plantillasEnC/Cine/cmake-build-debug/CMakeFiles/Cine.dir
+C:/Users/el pepe/Documents/plantillasEnC/Cine/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/el pepe/Documents/NuevoCine/Episodio.h
+iostream
+-
+video.h
+C:/Users/el pepe/Documents/NuevoCine/video.h
+
+C:/Users/el pepe/Documents/NuevoCine/Pelicula.h
+video.h
+C:/Users/el pepe/Documents/NuevoCine/video.h
+
+C:/Users/el pepe/Documents/NuevoCine/main.cpp
+iostream
+-
+cstdlib
+-
+windows.h
+-
+string
+-
+fstream
+-
+Episodio.h
+C:/Users/el pepe/Documents/NuevoCine/Episodio.h
+Pelicula.h
+C:/Users/el pepe/Documents/NuevoCine/Pelicula.h
+vector
+-
+
+C:/Users/el pepe/Documents/NuevoCine/video.h
+iostream
+-
+

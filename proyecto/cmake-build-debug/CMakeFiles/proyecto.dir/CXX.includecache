@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/el pepe/Documents/plantillasEnC/proyecto/Episodio.h
+Video.h
+C:/Users/el pepe/Documents/plantillasEnC/proyecto/Video.h
+iostream
+-
+
+C:/Users/el pepe/Documents/plantillasEnC/proyecto/Pelicula.h
+Video.h
+C:/Users/el pepe/Documents/plantillasEnC/proyecto/Video.h
+iostream
+-
+
+C:/Users/el pepe/Documents/plantillasEnC/proyecto/Video.h
+iostream
+-
+
+C:/Users/el pepe/Documents/plantillasEnC/proyecto/main.cpp
+fstream
+-
+iostream
+-
+Episodio.h
+C:/Users/el pepe/Documents/plantillasEnC/proyecto/Episodio.h
+Pelicula.h
+C:/Users/el pepe/Documents/plantillasEnC/proyecto/Pelicula.h
+

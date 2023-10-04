@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/el pepe/Documents/prueba/extraordinario/Factorial.h
+iostream
+-
+Operaciones.h
+C:/Users/el pepe/Documents/prueba/extraordinario/Operaciones.h
+
+C:/Users/el pepe/Documents/prueba/extraordinario/Operaciones.h
+iostream
+-
+
+C:/Users/el pepe/Documents/prueba/extraordinario/Primo.h
+Operaciones.h
+C:/Users/el pepe/Documents/prueba/extraordinario/Operaciones.h
+iostream
+-
+math.h
+-
+
+C:/Users/el pepe/Documents/prueba/extraordinario/main.cpp
+iostream
+-
+Factorial.h
+C:/Users/el pepe/Documents/prueba/extraordinario/Factorial.h
+Operaciones.h
+C:/Users/el pepe/Documents/prueba/extraordinario/Operaciones.h
+Primo.h
+C:/Users/el pepe/Documents/prueba/extraordinario/Primo.h
+

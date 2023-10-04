@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/el pepe/Documents/prueba/examenNuevo/Cuadrado.h
+iostream
+-
+Figura.h
+C:/Users/el pepe/Documents/prueba/examenNuevo/Figura.h
+
+C:/Users/el pepe/Documents/prueba/examenNuevo/Figura.h
+iostream
+-
+
+C:/Users/el pepe/Documents/prueba/examenNuevo/Rectangulo.h
+iostream
+-
+Figura.h
+C:/Users/el pepe/Documents/prueba/examenNuevo/Figura.h
+
+C:/Users/el pepe/Documents/prueba/examenNuevo/Trapecio.h
+iostream
+-
+Figura.h
+C:/Users/el pepe/Documents/prueba/examenNuevo/Figura.h
+
+C:/Users/el pepe/Documents/prueba/examenNuevo/Triangulo.h
+iostream
+-
+Figura.h
+C:/Users/el pepe/Documents/prueba/examenNuevo/Figura.h
+
+C:/Users/el pepe/Documents/prueba/examenNuevo/main.cpp
+iostream
+-
+Figura.h
+C:/Users/el pepe/Documents/prueba/examenNuevo/Figura.h
+Cuadrado.h
+C:/Users/el pepe/Documents/prueba/examenNuevo/Cuadrado.h
+Rectangulo.h
+C:/Users/el pepe/Documents/prueba/examenNuevo/Rectangulo.h
+Triangulo.h
+C:/Users/el pepe/Documents/prueba/examenNuevo/Triangulo.h
+Trapecio.h
+C:/Users/el pepe/Documents/prueba/examenNuevo/Trapecio.h
+
