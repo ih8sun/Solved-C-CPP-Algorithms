@@ -1,3 +1,0 @@
-C:/Users/el pepe/Documents/prueba/examenNuevo/cmake-build-debug/CMakeFiles/examenNuevo.dir
-C:/Users/el pepe/Documents/prueba/examenNuevo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/el pepe/Documents/prueba/examenNuevo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
