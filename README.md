@@ -4,8 +4,8 @@ During my years at university, I successfully tackled various algorithms, develo
 
 # Why do some files have names of people?
 
-Well, as I said before, most of the files are examens, or resolved tasks for students.
-So what better than putting their names in the file?😮‍💨
+Well, as I said before, most of the files are exams, projects , or resolved tasks for students.
+Sooo what better than putting their names in the file?😮‍💨
 
 # What can I find here?
 
